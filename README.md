@@ -3,3 +3,6 @@ The files available in this repository were used to obtain the results presented
 
 # Folder and its content
 ## Matlab
+It contains all matlab functions used to generate the .mat dataset. It also contains the simulink model. The main matlab function calls the simulink models during its execution. Each simulink simulation results in two .mat output files, one for the CNN based classifier and other for the classifier based on fuzzy logic.
+
+
